@@ -2,6 +2,9 @@
 - _To improve remote team building_
 - A back-end service for a real-time, turn-based multiplayer game (named `Facts!`) that solves the client's problem of improving remote team building
 
+### Game lifecycle:
+![Game lifecycle](meta/game-lifecycle-recording.gif)
+
 # How to run
 - Install Node.js
 - Clone this repo
